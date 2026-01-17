@@ -1,0 +1,4 @@
+Logic for computer choice
+for numbers less than 0.5 Assign to rock
+for numbers greater than 0.5 but lessthan 0.7 assign paper
+for numbers greater than o.7 assign scissor
